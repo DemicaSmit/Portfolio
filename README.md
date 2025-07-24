@@ -7,11 +7,11 @@ Project 2 -Student management system -group project
 Project 3 -Web application - group project
           -
 Project 4 -Java web application-group project
-          -
+          -https://github.com/IsFrydag/PRG381-Java.git
 Project 5 -Java desktop apllication-group project
           -https://github.com/GetafixPotion/PRG381M2.git
-Project 6 -
+Project 6 -Machine Learning project 1-group project
           -
-Project 7 -
+Project 7 -Machine Learning project 2-group project
           -
 
