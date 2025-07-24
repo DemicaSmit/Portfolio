@@ -11,7 +11,7 @@ Project 4 -Java web application-group project
 Project 5 -Java desktop apllication-group project
           -https://github.com/GetafixPotion/PRG381M2.git
 Project 6 -Machine Learning project 1-group project
-          -
+          -https://github.com/Trenti6/MLG382_Project1.git
 Project 7 -Machine Learning project 2-group project
           -
 
