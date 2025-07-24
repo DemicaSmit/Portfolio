@@ -13,5 +13,7 @@ Project 5 -Java desktop apllication-group project
 Project 6 -Machine Learning project 1-group project
           -https://github.com/Trenti6/MLG382_Project1.git
 Project 7 -Machine Learning project 2-group project
+          -https://github.com/DemicaSmit/Project2.git
+Project 8 -Web application for international project
           -
 
