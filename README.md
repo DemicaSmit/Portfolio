@@ -1,8 +1,8 @@
 # Portfolio
 This repository includes my individual and group projects I have done
 Project 1 -C# application -group project
-          -
-Project 2 -
+          -https://github.com/DemicaSmit/PatientPathway.git
+Project 2 -Student management system -group project
           -
 Project 3 -
           -
